@@ -1,0 +1,26 @@
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.exe
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.deps.json
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.runtimeconfig.json
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.runtimeconfig.dev.json
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.dll
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.pdb
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.AssemblyInfo.cs
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.dll
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.pdb
+C:\Users\fic\Desktop\pedro\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.genruntimeconfig.cache
